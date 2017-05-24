@@ -1,5 +1,5 @@
 {
-    "name": "thecodingcompany/COCSearch",
+    "name": "thecodingcompany/cocsearch",
     "type": "library",
     "description": "Find company info directly from the Dutch Chamber of Commerce (KvK data). PHP5 library",
     "keywords": ["php","kvk","api","chamber of commerce"],
