@@ -1,4 +1,4 @@
-# COCSearch
+# COCSearch / Zoeken in de Nederlandse KVK database
 Search for company information in the Dutch Chamber of Commerce. Also known as KVK data
 
 ```
